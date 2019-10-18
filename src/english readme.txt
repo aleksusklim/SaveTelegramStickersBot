@@ -1,0 +1,1 @@
+All usage instructions are stored as a comment inside "save-telegram-stickers-bot.js" file itself, so open it with any text editor and read!
